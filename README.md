@@ -16,12 +16,21 @@ Pasos para la creación del proyecto:
 6- Como por defecto este proyecto muestra Hola Mundo, entonces para que nos muestre la cadena que se especifica en la letra del 
 ejercicio debemos hacer modificaciones en los siguientes archivos:
 
-![2023-02-08_11h06_53](https://user-images.githubusercontent.com/72228855/217554766-ae4322fb-c997-412d-b186-d0002ba2ff21.png)
+
+![2023-02-08_11h07_32](https://user-images.githubusercontent.com/72228855/217555464-6e88f778-5f41-4e9c-9ffc-39fec51a01a5.png)
 
 
 
-![2023-02-08_11h07_19](https://user-images.githubusercontent.com/72228855/217554904-e3e62df5-22e8-4748-9427-ee409d714fcb.png)
+![2023-02-08_11h07_49](https://user-images.githubusercontent.com/72228855/217555534-4cb8cb87-4aa3-4241-9421-6f0f8ed33b03.png)
 
 
+
+![2023-02-08_11h06_53](https://user-images.githubusercontent.com/72228855/217555582-fd70a7c3-1f2a-4257-8a82-474774baa4d7.png)
+
+
+7- Resultado obtenido:
+
+
+![2023-02-08_11h27_05](https://user-images.githubusercontent.com/72228855/217558515-31894299-e1ca-43a5-ae97-fb781471cbff.png)
 
 
